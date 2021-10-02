@@ -3,7 +3,7 @@
 
 const int ESTUDIANTES = 3;
 const int EVALUACIONES =4;
-
+//Cesar Eduardo Alfaro Parada AP102416
 double minima(double[][EVALUACIONES], int, int);
 double maxima(double[][EVALUACIONES], int, int);
 double promedio(double[], int);

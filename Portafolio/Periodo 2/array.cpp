@@ -5,7 +5,7 @@
 using namespace std;
 
 const int ELEMENTOS = 5;
-
+//Cesar Eduardo Alfaro Parada AP102416
 int main(){
 	array<int, ELEMENTOS> arr={32, 27, 64, 18, 95};
 	cout << "Elemento" << setw(13) << "Valor" << endl;

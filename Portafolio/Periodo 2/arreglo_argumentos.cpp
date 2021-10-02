@@ -1,6 +1,6 @@
 #include <iostream>
 #include <iomanip>
-
+//Cesar Eduardo Alfaro Parada AP102416
 float promedio(const float arr[], const int n){
 	float suma = 0.0;
 	for (int i = 0; i < n; i++)

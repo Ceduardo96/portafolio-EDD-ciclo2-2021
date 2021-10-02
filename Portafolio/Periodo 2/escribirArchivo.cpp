@@ -4,7 +4,7 @@
 #include <fstream>
 
 using namespace std;
-
+//Cesar Eduardo Alfaro Parada AP102416
 void escribirArchivo(string archivo){
 	ofstream miArchivo(archivo);
 	string texto;

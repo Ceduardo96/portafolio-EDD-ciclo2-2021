@@ -4,7 +4,7 @@
 using namespace std;
 
 const int TAMANIO = 10;
-
+//Cesar Eduardo Alfaro Parada AP102416
 void imprimirArreglo(array<int, TAMANIO> &arr, int num_elementos){
 	for (int i = 0; i < arr.size() && i < num_elementos; i++){
 		cout << arr[i] << endl;

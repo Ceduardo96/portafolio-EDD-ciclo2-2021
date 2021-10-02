@@ -4,7 +4,7 @@
 #include <fstream>
 
 using namespace std;
-
+//Cesar Eduardo Alfaro Parada AP102416
 bool buscarEnArchivo(string archivo, string valorBuscado){
 	bool encontrado = false;
 	string linea;
